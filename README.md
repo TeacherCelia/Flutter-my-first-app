@@ -6,4 +6,4 @@ De momento, solo estoy tocando el archivo `main.dart` y poco a poco iré añadie
 
 ## 📱 Captura de pantalla
 
-![Captura de pantalla](screenshots/screenshot_1.png)
+<img src="screenshots/screenshot_1.png" alt="Captura de pantalla" width="300"/>
