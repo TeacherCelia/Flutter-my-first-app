@@ -4,6 +4,12 @@ Esta es mi primera app en Flutter, donde estoy aprendiendo su funcionamiento y c
 
 De momento, solo estoy tocando el archivo `libs/main.dart` y poco a poco iré añadiendo funcionalidades!
 
+## ¿Qué hace la app?
+
+Es una app que genera de forma automática al darle a un botón una palabra random compuesta de dos palabras, obtenida de un método externo hecho por el autor del codelab de google.
+
+Además, tiene la funcionalidad de guardar las palabras que más te gusten en una lista de favoritos, pudiendo ver la lista de los mismos en la pantalla 'Favorites'.
+
 ## 📱 Capturas de pantalla
 
 1- Añadidos los widgets principales: texto y botón que al pulsar muestra una palabra compuesta random
